@@ -1,4 +1,5 @@
-# Edelweiss - Test
+# Edelweiss
+# Test
 
 ## Speed Math
 - 60 questions, 15 minutes, random questions like multiply some numbers, find the root of a number, some % of a number
@@ -31,3 +32,27 @@
 - Some integer overflow bug while multiplying, needed to find bug
 - Given code, needed to find why slow. One was that while iterating they used auto, and second was even though operations were read only, they did auto and not auto&
 - Some class inheritance with overriding init functions
+
+# Interview
+
+## Questions
+
+- What day was 9/11
+
+- 3 die of 10 sides, 0, 1, 2, …, 9, probability that the sum is divisible by 10
+
+- Some order book based question, everything was explained, very intuition based
+
+- What is R^2? Can it be negative?
+
+- Positive skew, is mean > median
+
+- Something about half life
+
+- Biased coin, 0.6 head, 0.4 tail, if head you get double the amount you bet, if tail you lose the bet amount, how much should you bet?
+
+- N × n square, fill with 0 and 1, how should you fill so that row and column sum is even. If n × m, what is the constraints on n and m
+
+- 9 integer points in a 3D plane, all 9C2 line segments are drawn, prove at least one line segment contains a point with all integer values
+
+- 2 × n array, each array has a rabbit. Each rabbit can jump to adjacent box (NOT DIAGONAL). They jump such that after jump also each box has exactly one rabbit. They make one jump. How many next states can possibly occur.
