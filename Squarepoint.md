@@ -42,6 +42,8 @@ Team B = {3, 2, 1, 2}
 
 From index 2 if we take 2 from team B, then at index 3 we take 2 from Team A, and index 4 2 from team B we get the maximum sized subarray {2,2,2}. The constraints are such that we need to find O(N) soln.
 
+---
+
 ### Expression Evaluation
 Given a string with brackets, numbers, spaces, `'+'` and `'-'`. Evaluate the output.
 
