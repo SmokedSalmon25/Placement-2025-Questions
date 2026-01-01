@@ -33,5 +33,5 @@ Question 1: Express a number as sum of 2 powers of 2, algorithm and is it possib
 Example, 9 would be 2^0+2^3
 
 Question 2: algorithm for given a number of digits eg 21, find the largest possible 21 digit special number
-Criterion for a number being special: if 1 occurs it occurs one, if 4 is used it has to occur 4 times
+Criterion for a number being special: if 1 occurs it occurs once, if 4 is used it has to occur 4 times
 examples of special numbers: 515555, 32323
