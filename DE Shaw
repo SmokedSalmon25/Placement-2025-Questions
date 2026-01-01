@@ -1,0 +1,37 @@
+Test:
+DSA Section:
+Question 1 — Minimum Bit Flips to Make All Elements Equal
+
+You are given an array of positive integers.
+You are allowed to flip bits in any element — meaning you can change a 0 bit to 1 or a 1 bit to 0 in its binary representation.
+Your goal is to make all elements in the array equal.
+Find the minimum number of individual bit flips required to achieve this.
+
+Question 2 — Minimum Swaps
+
+You are given an array that contains at least one zero and some positive numbers.
+In a single move, you may swap exactly one zero with soem other element.
+Your goal is to rearrange the array so that:
+1. All positive numbers come first,
+2. Those positive numbers are in ascending order, and
+3. All zeros are at the end.
+Find the minimum number of allowed swaps needed to reach such an arrangement.
+
+
+Question 3 — Count the Number of Good Subarrays
+
+A subarray is called good if the following condition holds:
+If the subarray has odd length, it is automatically good.
+If the subarray has even length, then after sorting that subarray, the two middle elements must be equal.
+Given an array, count how many subarrays are good.
+
+Test also had aptitude, cs fundamentals
+
+Interview
+
+Question 1: Express a number as sum of 2 powers of 2, algorithm and is it possible
+Example, 9 would be 2^0+2^3
+
+Question 2: algorithm for given a number of digits eg 21, find the largest possible 21 digit special number
+Criterion for a number being special: if 1 occurs it occurs one, if 4 is used it has to occur 4 times
+examples of special numbers: 515555, 32323
